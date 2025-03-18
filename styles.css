@@ -7,11 +7,15 @@ h1 {
 }
 
 .ball {
+    display: flex;
     border-radius: 50%;
     background-color: cadetblue;
     height: 100px;
     width: 100px;
     cursor: pointer;
     margin-inline: auto;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: bold;
 }
