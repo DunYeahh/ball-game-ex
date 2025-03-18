@@ -5,3 +5,12 @@ html {
 h1 {
     color: white;
 }
+
+.ball {
+    border-radius: 50%;
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    margin-inline: auto;
+}
