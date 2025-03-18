@@ -20,3 +20,10 @@ h1 {
     font-weight: bold;
     transition: 1s;
 }
+
+.second-ball {
+    background-color: coral;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
