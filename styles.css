@@ -13,4 +13,5 @@ h1 {
     width: 100px;
     cursor: pointer;
     margin-inline: auto;
+    text-align: center;
 }
